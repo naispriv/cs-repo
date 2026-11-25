@@ -128,6 +128,29 @@
     "name": "KlikXXi"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=simplycufflinks.com&sz=%size%",
+        "fileHash": "sha256-b328ac053a8707d02229bb2f3a43df6bc1eaab1a18f888133ab7cd7331f5c980",
+        "apiVersion": 1,
+        "repositoryUrl": "https://naisflix.xo.je/z",
+        "fileSize": 507676,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Imam2nd"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 30000849,
+        "internalName": "Dutamovie21",
+        "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] Dutamovie21 - Nonton film box office, series, dan serial TV subtitle Indonesia",
+        "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderDutamovie21.cs3",
+        "name": "Dutamovie21"
+    },
+    {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
     "fileHash": "sha256-e2178db353ac2cd1a2a399bcaec7ce78e8e32be9df2056e3599bab410c37dc8f",
     "apiVersion": 1,
