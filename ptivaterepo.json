@@ -184,10 +184,10 @@
             "TvSeries"
         ],
         "version": 30000849,
-        "internalName": "ProviderAnimexin",
+        "internalName": "Animexin",
         "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
         "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnimexin.cs3",
-        "name": "ProviderAnimexin"
+        "name": "Animexin"
     },   
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
