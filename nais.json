@@ -46,9 +46,9 @@
         "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
         "iconUrl": "https://i.ibb.co.com/YFbP1FSr/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-902b30af1faf8af2144604a73e91df7dc1fb282ed53eabd9573494408f76b0fe",       
+        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 41940,
+        "fileSize": 73662,
         "status": 1,
         "language": "id",
         "authors": [
@@ -58,7 +58,7 @@
             "Movie",
             "Series"
         ],
-        "version": 14,
+        "version": 99,
         "internalName": "MovieBox🤕 lite",
         "description": "Moviebox🤕 Lite max resolusi 480p",
         "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/MovieBoxProvider.cs3",
