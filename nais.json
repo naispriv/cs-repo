@@ -65,15 +65,15 @@
         "name": "MovieBox🤕 lite"
     },
     {
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/Sflix.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
     "status": 1,
-    "version": 3,
+    "version": 99,
     "name": "Sflix",
     "internalName": "Sflix",
     "authors": [
       "AdiManu"
     ],
-    "fileSize": 35720,
+    "fileSize": 73662,
     "repositoryUrl": "https://naisflix.xo.je/z/",
     "language": "id",
     "tvTypes": [
@@ -84,19 +84,19 @@
     ],
     "iconUrl": "https://sflix.film/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-e43429071f393c931421cf34a5c20663927e8b4a37828cb5d20dbf1467880d04"
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4"
     },
     {
-        "url": "https://raw.githubusercontent.com/bikinveo-hash/RepairPremium_Repo/builds/OppaDrama.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
     "status": 1,
-    "version": 3,
+    "version": 99,
     "name": "OppaDrama",
     "internalName": "OppaDrama",
     "authors": [
       "Aldry84"
     ],
     "description": "OppaDrama — Streaming Drama Korea, Movie and TV Series",
-    "fileSize": 92241,
+    "fileSize": 73662,
     "repositoryUrl": "https://naisflix.xo.je/z/",
     "language": "id",
     "tvTypes": [
@@ -106,13 +106,13 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://oppa.biz&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9d56a2b36572e0af8744412dd51a4b1e29717b506774d1213e2d27dc2fa4d8dd"
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4"
     },
     {
         "iconUrl": "https://i.ibb.co.com/QF8w02RR/klikxxi.png",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 20005,
+    "fileSize": 51923,
     "status": 1,
     "language": "id",
     "authors": [
@@ -122,17 +122,17 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": 99,
     "internalName": "KlikXXi",
-    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/KlikXXi.cs3",
+    "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
     "name": "KlikXXi"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
-    "fileHash": "sha256-e2178db353ac2cd1a2a399bcaec7ce78e8e32be9df2056e3599bab410c37dc8f",
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 507647,
+    "fileSize": 73662,
     "status": 1,
     "language": "id",
     "authors": [
@@ -141,18 +141,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 30000849,
+    "version": 30000999,
     "internalName": "Anichin",
     "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac Anichin - Streaming Anime China Subtitle Indonesia dengan kualitas tinggi dan update tercepat!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnichin.cs3",
+    "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
     "name": "Anichin"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=donghive.vip&sz=128",
-    "fileHash": "sha256-ee50509753320f3bc5fce6c543f33c346a47ce47e75e183ef1642749f921a95e",
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",
     "apiVersion": 1,
     "repositoryUrl": "https://naisflix.xo.je/z/",
-    "fileSize": 507635,
+    "fileSize": 73662,
     "status": 1,
     "language": "id",
     "authors": [
@@ -161,18 +161,18 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 30000849,
+    "version": 30000999,
     "internalName": "Donghive",
     "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83d\udc1d Donghive - Platform streaming donghua China dengan subtitle Indonesia, dari jaringan Auratail!",
-    "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderDonghive.cs3",
+    "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
     "name": "Donghive"
     },   
     {
         "iconUrl": "https://a.favicon.im/animexin.dev?larger=true",
-    "fileHash": "sha256-03227926ddf5ab6fec9feb6e28b0414f64bfbbb6808ab2bfe35eedc02b118b92",
+    "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/byimam2nd/oce",
-        "fileSize": 507686,
+        "fileSize": 73662,
         "status": 1,
         "language": "id",
         "authors": [
@@ -183,18 +183,18 @@
             "AnimeMovie",
             "TvSeries"
         ],
-        "version": 30000849,
+        "version": 30000999,
         "internalName": "Animexin",
         "description": "[v5.0.0 #849 | 2026-11-25 08:05 WIB] \ud83c\udfac AnimexinDev - Streaming Anime Subtitle Indonesia dengan multi-server player!",
-        "url": "https://github.com/byimam2nd/oce/releases/download/v5.0.0/ProviderAnimexin.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
         "name": "Animexin"
     },   
     {
         "iconUrl": "https://i.ibb.co.com/9HDVpFFT/layarkaca.png",
         "apiVersion": 1,
-        "fileHash": "sha256-5771129cbe318e43e2d1798129b15a714f6d388d4c827c42ad4a90d823a87e20",       
+        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 121015,
+        "fileSize": 73662,
         "status": 1,
         "language": "id",
         "authors": [
@@ -205,17 +205,17 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 10,
+        "version": 99,
         "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/LayarKacaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
         "name": "LayarKacaProvider"
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-94d7ec68ed45cf3527fb71d92460047cd3d1d5de8c92aa912122f7ed1117e332",       
+        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",       
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 2236985,
+        "fileSize": 73662,
         "status": 1,
         "language": "en",
         "authors": [
@@ -229,10 +229,10 @@
             "Cartoon",
             "TvSeries"
         ],
-        "version": 715,
+        "version": 999,
         "internalName": "StreamPlay",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
         "name": "StreamPlay"
     },
     {
@@ -257,10 +257,10 @@
     },
     {
         "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
-        "fileHash": "sha256-630d9e976a3211b2bfdfeacbaff31771dc27d5491f1b4def8129c91a59838c49",
+        "fileHash": "sha256-1c476ff38daa8ed906d32ec1c09a929658fb453798630c433f71024aaa303db4",
         "apiVersion": 1,
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 229573,
+        "fileSize": 73662,
         "status": 1,
         "language": "id",
         "authors": [
@@ -273,16 +273,16 @@
             "Anime",
             "Movie"
         ],
-        "version": 27,
+        "version": 99,
         "internalName": "Idlix",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IdlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Pendztagram/extcloud/builds/FreeReels.cs3",
         "name": "Idlix"
     },
     {
         "iconUrl": "https://i.ibb.co.com/KjQdk4YC/kawanfilm.png",
         "apiVersion": 1,
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 27616,
+        "fileSize": 51923,
         "status": 1,
         "language": "id",
         "authors": [
@@ -293,16 +293,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 99,
         "internalName": "Kawanfilm",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Kawanfilm.cs3",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
         "name": "Kawanfilm"
     },
     {
         "iconUrl": "https://i.ibb.co.com/3yVG0DbY/ngefilm.png",
         "apiVersion": 1,
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 21909,
+        "fileSize": 51923,
         "status": 1,
         "language": "id",
         "authors": [
@@ -315,16 +315,16 @@
             "Anime",
             "Movie"
         ],
-        "version": 1,
+        "version": 99,
         "internalName": "Ngefilm",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Ngefilm.cs3",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
         "name": "Ngefilm"
     },
     {
         "iconUrl": "https://i.ibb.co.com/qFdDYpcD/pusatmovie.png",
         "apiVersion": 1,
         "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 23941,
+        "fileSize": 51923,
         "status": 1,
         "language": "id",
         "authors": [
@@ -335,9 +335,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 99,
         "internalName": "Pusatmovie",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Pusatmovie.cs3",
+        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/LayarKaca.cs3",
         "name": "Pusatmovie"
     },
     {
