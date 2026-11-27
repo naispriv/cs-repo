@@ -259,26 +259,6 @@
         "name": "StreamPlay"
     },
     {
-        "iconUrl": "https://i.ibb.co.com/Jjzsxm9F/cropped-lk21-1.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://naisflix.xo.je/z/",
-        "fileSize": 24041,
-        "status": 0,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Filmkita",
-        "url": "https://raw.githubusercontent.com/Asm0d3usX/CloudX/builds/Filmkita.cs3",
-        "name": "Filmkita"
-    },
-    {
         "iconUrl": "https://i.ibb.co.com/xtyf1WFY/idlix.png",
         "fileHash": "sha256-630d9e976a3211b2bfdfeacbaff31771dc27d5491f1b4def8129c91a59838c49",
         "apiVersion": 1,
